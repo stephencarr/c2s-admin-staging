@@ -2276,7 +2276,7 @@ catch(err) {
 /* jshint ignore:start */
 
 if (!runningTests) {
-  require("conx2share-admin/app")["default"].create({"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"conx2share-admin","version":"0.0.0+601dd930"});
+  require("conx2share-admin/app")["default"].create({"name":"conx2share-admin","version":"0.0.0+601dd930"});
 }
 
 /* jshint ignore:end */
