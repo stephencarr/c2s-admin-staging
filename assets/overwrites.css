@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bg-teal {background: #1F9BB2 100% !important;}
+
+.card-view {padding:10px;}
+
+.panel-danger > .panel-heading, .panel-info > .panel-heading, .panel-success > .panel-heading, .panel-warning > .panel-heading, .panel-primary > .panel-heading, .panel-inverse > .panel-heading {margin: -10px -10px 0;}
+
+.table {margin-bottom: 15px;}
+
+.panel-primary > .panel-heading {background-color: #1F9BB2;}
+
+.label.label-success, .label-success.jvectormap-tip {background: #1F9BB2;}
+
+.label.label-info, .label-info.jvectormap-tip {background: #1F9BB2;}
+
+.label.label-primary, .label-primary.jvectormap-tip {background: #1F9BB2;}
+
+.label.label-danger, .label-danger.jvectormap-tip {background: #1F9BB2;}
+
+.label, .jvectormap-tip {padding: 3px 6px 3px 6px;font-size: 10px;border-radius: 10px;font-weight: 400;}
